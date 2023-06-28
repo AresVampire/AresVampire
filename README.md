@@ -16,9 +16,11 @@ With over 10 years of experience in software engineering, I am a seasoned profes
 
 🔭 Always Be Learning New Technologies for a Competitive Edge
 
-🤔 Mobile App Developer (Swift/Kotlin/Flutter/ReactNative)
+🤔 Mobile App Development (Swift / Kotlin / Flutter / React Native)
 
-🤔 Web App Developer (React.js/Angular/Vue3)
+🤔 Web App Development (React.js / Angular / Vue 3)
+
+🤔 Backend Development (Node.js)
 
 <br />
 
