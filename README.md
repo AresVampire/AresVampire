@@ -12,7 +12,6 @@ With over **10 years of experience in software engineering**, I am a seasoned pr
 
 <p align="center">
   ❤ Visitor Counts ❤  
-  <br>  
   <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" alt="Visitor Count" />
 </p>
 
@@ -30,12 +29,12 @@ With over **10 years of experience in software engineering**, I am a seasoned pr
 
 ---
 
-### 🎯 My Mission
+## 🎯 My Mission
 To create efficient, user-friendly, and innovative solutions that bridge technology and user needs seamlessly.
 
 ---
 
-### 🏆 GitHub Stats
+## 🏆 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AresVampire&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
@@ -44,7 +43,7 @@ To create efficient, user-friendly, and innovative solutions that bridge technol
 
 ---
 
-### 🌟 Top Languages
+## 🌟 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AresVampire&layout=compact&theme=radical" alt="Top Languages" />
 </p>
