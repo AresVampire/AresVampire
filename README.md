@@ -25,9 +25,6 @@ With over 10 years of experience in software engineering, I am a seasoned profes
 
 🤔 Backend Development (Node.js)
 
-<br />
-
-
 <!--<h2>🚀 Some Tools I Use</h2> -->
 <!--
 <p align="left">
