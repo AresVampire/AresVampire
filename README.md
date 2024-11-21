@@ -1,5 +1,56 @@
 ### Hi there 👋
 
+With over **10 years of experience in software engineering**, I am a seasoned professional with expertise in designing, developing, and maintaining robust software systems.
+
+<a href="https://www.buymeacoffee.com/yugene">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yugene&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+</a>
+
+---
+
+## Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+
+<p align="center">
+  ❤ Visitor Counts ❤  
+  <br>  
+  <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+## ⚡️ A Few Quick Facts
+
+<img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300"/>
+
+- 🔭 **Always Be Learning**: Staying up-to-date with cutting-edge technologies for a competitive edge.
+- 💻 **Mobile App Development**: Swift / Kotlin / Flutter / React Native.
+- 🌐 **Web App Development**: React.js / Angular / Vue 3.
+- ⚙️ **Backend Development**: Node.js.
+- 💡 **Team Player**: Thrives in collaborative environments with a focus on delivering impactful results.
+
+---
+
+### 🎯 My Mission
+To create efficient, user-friendly, and innovative solutions that bridge technology and user needs seamlessly.
+
+---
+
+### 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AresVampire&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AresVampire&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌟 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AresVampire&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<!--### Hi there 👋
+
 With over 10 years of experience in software engineering, I am a seasoned professional with expertise in designing, developing, and maintaining software systems. <br/>
 
 <a href="https://www.buymeacoffee.com/yugene"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yugene&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
@@ -9,7 +60,7 @@ With over 10 years of experience in software engineering, I am a seasoned profes
 <a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
 
 <p align="center">
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=unicorn-talent&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> -->
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=unicorn-talent&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=gruvbox" /> 
 </p>
 
 <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300"/>
@@ -24,6 +75,7 @@ With over 10 years of experience in software engineering, I am a seasoned profes
 🤔 Web App Development (React.js / Angular / Vue 3)
 
 🤔 Backend Development (Node.js)
+-->
 
 <!--<h2>🚀 Some Tools I Use</h2> -->
 <!--
