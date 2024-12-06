@@ -2,9 +2,14 @@
 
 With over **10 years of experience in software engineering**, I am a seasoned professional with expertise in designing, developing, and maintaining robust software systems.
 
-<a href="https://www.buymeacoffee.com/yugene">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yugene&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://stackoverflow.com/users/7906279/yugene">
+    <img src="https://stackoverflow.com/users/flair/7906279.png" width="208" height="58" alt="profile for Yugene at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Yugene at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
+  <a href="https://www.buymeacoffee.com/yugene">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yugene&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+  </a>
+</div>
 
 ---
 
