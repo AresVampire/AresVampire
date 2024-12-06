@@ -2,8 +2,10 @@
 
 With over **10 years of experience in software engineering**, I am a seasoned professional with expertise in designing, developing, and maintaining robust software systems.
 
-<a href="https://stackoverflow.com/users/7906279/yugene" align="left"><img src="https://stackoverflow.com/users/flair/7906279.png?theme=dark" width="208" height="58" alt="Yugene at Stack Overflow, Senior Software Engineer" title="Yugene at Stack Overflow, Senior Software Engineer"></a>
-<a href="https://www.buymeacoffee.com/yugene" align="right"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yugene&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<p align="center">
+  <a href="https://stackoverflow.com/users/7906279/yugene" align="left"><img src="https://stackoverflow.com/users/flair/7906279.png?theme=dark" width="208" height="58" alt="Yugene at Stack Overflow, Senior Software Engineer" title="Yugene at Stack Overflow, Senior Software Engineer"></a> | <a href="https://www.buymeacoffee.com/yugene" align="right"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yugene&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+  --- | ---
+</p>
 
 ---
 
@@ -37,9 +39,8 @@ To create efficient, user-friendly, and innovative solutions that bridge technol
 
 ### 🏆 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AresVampire&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AresVampire&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AresVampire&show_icons=true&theme=radical" alt="GitHub Stats" align="left" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AresVampire&theme=radical" alt="GitHub Streak" align="right" />
 </p>
 
 ---
