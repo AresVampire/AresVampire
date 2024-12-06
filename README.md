@@ -28,7 +28,7 @@ With over **10 years of experience in software engineering**, I am a seasoned pr
 - 🤳 **Mobile App Development**: Swift / Kotlin / Flutter / React Native.
 - 🌐 **Web App Development**: React.js / Angular / Vue 3.
 - ⚙️ **Backend Development**: Node.js.
-- 🤝 **Team Player**: Thrives in collaborative environments with a focus on delivering impactful results.
+- 🤝 **Team Player**: Thrives in collaborative environments focusing on delivering impactful results.
 
 ---
 
