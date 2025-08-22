@@ -14,8 +14,6 @@ With over **10 years of experience in software engineering**, I am a seasoned pr
 ---
 
 ## Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-
-![](https://hit.yhype.me/github/profile?account_id=1849174&style=plastic&abbreviated=true&color=green)
 ![](https://komarev.com/ghpvc/?username=AresVampire&style=plastic&abbreviated=true&color=green)
 
 ---
